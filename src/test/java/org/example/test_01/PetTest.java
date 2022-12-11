@@ -1,5 +1,6 @@
-package org.example;
+package org.example.test_01;
 
+import org.example.test_01.Pet;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

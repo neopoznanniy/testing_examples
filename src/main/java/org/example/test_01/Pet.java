@@ -1,4 +1,4 @@
-package org.example;
+package org.example.test_01;
 
 public class Pet {
     private String type;
